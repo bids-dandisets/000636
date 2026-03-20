@@ -1,4 +1,17 @@
 {
+    "Name": "Human interneuron patch-seq electrophysiology",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0"
+    "HEDVersion": "8.3.0",
+    "Description": "Patch-seq electrophysiology data from human neocortical interneurons from acute and slice culture preparations, accompanying the manuscript \"Signature morpho-electric properties of diverse GABAergic interneurons in the human neocortex\" (https://www.biorxiv.org/content/10.1101/2022.11.08.515739).",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev4+gc93cee118",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
 }
